@@ -1,0 +1,8 @@
+Liste des informations pour l'entitée "LOG" :
+- Date et heure
+- Tag (erreure ou action)
+- Desciption de l'erreure ou de l'action
+- Identifiant de l'utilisateur
+
+Liste des informations ROLE :
+- 
